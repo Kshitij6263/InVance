@@ -1,0 +1,545 @@
+.desktop-2-child,
+.desktop-2-item {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1550px;
+  height: 72px;
+}
+.desktop-2-item {
+  top: 277px;
+  left: 1018px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lemonchiffon);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 350px;
+  height: 275px;
+}
+.group-icon {
+  position: absolute;
+  height: 5.36%;
+  width: 11.26%;
+  top: 13.01%;
+  right: 17.32%;
+  bottom: 81.63%;
+  left: 71.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.desktop-2-child1,
+.desktop-2-child2,
+.desktop-2-child3,
+.desktop-2-child4,
+.desktop-2-inner {
+  position: absolute;
+  top: 590px;
+  left: 1017px;
+  background-color: var(--color-lemonchiffon);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 348px;
+  height: 43px;
+}
+.desktop-2-child1,
+.desktop-2-child2,
+.desktop-2-child3,
+.desktop-2-child4 {
+  top: 632px;
+}
+.desktop-2-child2,
+.desktop-2-child3,
+.desktop-2-child4 {
+  top: 675px;
+}
+.desktop-2-child3,
+.desktop-2-child4 {
+  top: 718px;
+}
+.desktop-2-child4 {
+  top: 761px;
+}
+.invest-the-way1 {
+  position: absolute;
+  top: 435px;
+  left: 1094px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: var(--color-black);
+}
+.bank-loans-at1,
+.car-loan1,
+.emi-calculator2,
+.house-loan1,
+.popular-categories1 {
+  position: absolute;
+  top: 602px;
+  left: 1051px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  color: var(--color-black);
+}
+.bank-loans-at1,
+.car-loan1,
+.emi-calculator2,
+.house-loan1 {
+  top: 775px;
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.bank-loans-at1,
+.car-loan1,
+.house-loan1 {
+  top: 731px;
+}
+.bank-loans-at1,
+.house-loan1 {
+  top: 690px;
+}
+.bank-loans-at1 {
+  top: 644px;
+  left: 1050px;
+}
+.join-millions-of1 {
+  position: absolute;
+  top: 466px;
+  left: 1052px;
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  color: var(--color-dimgray);
+}
+.home-calculator1,
+.rule-for-home {
+  position: absolute;
+  left: 164px;
+  font-weight: 600;
+}
+.home-calculator1 {
+  top: 108px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray);
+}
+.rule-for-home {
+  top: 234px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  width: 439px;
+  height: 33px;
+}
+.new-rbi-mandate-on-home-loan,
+.rule-for-home {
+  color: var(--color-black);
+}
+.but-in-a,
+.new-rbi-mandate-on-home-loan {
+  margin-block-start: 0;
+  margin-block-end: 5px;
+}
+.at-the-time-of-interest-reset {
+  margin-bottom: 0;
+}
+.lenders-should-communicate-to {
+  margin: 0;
+  padding-left: var(--padding-xl);
+}
+.new-rbi-mandate-container {
+  position: absolute;
+  top: 396px;
+  left: 164px;
+  font-size: var(--font-inherit);
+  display: inline-block;
+  width: 650px;
+  height: 262px;
+  color: var(--color-dimgray);
+}
+.the-down-payment {
+  margin: 0;
+}
+.example-we-can-container {
+  position: absolute;
+  top: 696px;
+  left: 164px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 693px;
+  height: 235px;
+  color: var(--color-dimgray);
+}
+.value-of-house {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+}
+.value-of-house-container {
+  position: absolute;
+  top: 272px;
+  left: 164px;
+  font-size: var(--font-size-mini);
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 595px;
+  height: 105px;
+}
+.emi-calculator3,
+.home-loan {
+  position: absolute;
+  top: 149px;
+  left: 164px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+}
+.emi-calculator3 {
+  top: 1060px;
+}
+.desktop-2-child5 {
+  position: absolute;
+  top: 1116px;
+  left: 166px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lemonchiffon);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 740px;
+  height: 473px;
+}
+.loan-amount1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.loan-amount-container,
+.rate-of-interest4 {
+  position: absolute;
+  left: 205px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.loan-amount-container {
+  top: 1177px;
+  width: 100px;
+  height: 19px;
+}
+.rate-of-interest4 {
+  top: 1231px;
+  font-weight: 500;
+}
+.desktop-2-child6,
+.desktop-2-child7,
+.desktop-2-child8 {
+  position: absolute;
+  top: 1231px;
+  left: 442px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-lemonchiffon);
+  border: 1.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 130px;
+  height: 15px;
+}
+.desktop-2-child7,
+.desktop-2-child8 {
+  top: 1177px;
+  left: 440px;
+}
+.desktop-2-child8 {
+  top: 1295px;
+  left: 442px;
+}
+.loan-tenure1,
+.monthly-emi1,
+.principal-amount1,
+.total-amount1,
+.total-interest1 {
+  position: absolute;
+  top: 1286px;
+  left: 205px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.monthly-emi1,
+.principal-amount1,
+.total-amount1,
+.total-interest1 {
+  top: 1358px;
+  font-size: var(--font-size-mid);
+}
+.principal-amount1,
+.total-amount1,
+.total-interest1 {
+  top: 1413px;
+}
+.total-amount1,
+.total-interest1 {
+  top: 1462px;
+}
+.total-amount1 {
+  top: 1515px;
+}
+.desktop-2-child9 {
+  position: absolute;
+  top: 1657px;
+  left: -30px;
+  background-color: var(--color-gray-100);
+  width: 1578px;
+  height: 673px;
+}
+.desktop-2-child10 {
+  position: absolute;
+  top: 1719px;
+  left: 212px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 374px;
+  height: 56px;
+}
+.by-india-for1 {
+  position: absolute;
+  top: 1736px;
+  left: 304px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  font-family: var(--font-arial);
+  color: var(--color-black);
+  width: 209px;
+  height: 31px;
+}
+.image-2-icon {
+  position: absolute;
+  top: 1735px;
+  left: 245px;
+  width: 42px;
+  height: 24px;
+  object-fit: cover;
+}
+.about-us1,
+.about1,
+.business-blogs1,
+.contact1,
+.help-centre1,
+.invance-business1,
+.log-in1,
+.products1,
+.reviews1,
+.sign-up1 {
+  position: absolute;
+  left: 225px;
+  display: inline-block;
+  font-family: var(--font-arial);
+  width: 81px;
+  height: 28px;
+  mix-blend-mode: normal;
+}
+.about1 {
+  top: 1839px;
+  font-size: var(--font-size-3xl);
+}
+.about-us1,
+.business-blogs1,
+.contact1,
+.help-centre1,
+.invance-business1,
+.log-in1,
+.products1,
+.reviews1,
+.sign-up1 {
+  top: 1901px;
+}
+.business-blogs1,
+.contact1,
+.help-centre1,
+.invance-business1,
+.log-in1,
+.products1,
+.reviews1,
+.sign-up1 {
+  left: 491px;
+}
+.business-blogs1,
+.contact1,
+.help-centre1,
+.invance-business1,
+.log-in1,
+.products1,
+.sign-up1 {
+  left: 757px;
+  width: 177px;
+  height: 17px;
+}
+.business-blogs1,
+.contact1,
+.help-centre1,
+.log-in1,
+.products1,
+.sign-up1 {
+  top: 1953px;
+  width: 81px;
+  height: 28px;
+}
+.business-blogs1,
+.contact1,
+.help-centre1,
+.log-in1,
+.sign-up1 {
+  top: 2005px;
+  width: 153px;
+}
+.contact1,
+.help-centre1,
+.log-in1,
+.sign-up1 {
+  top: 1953px;
+  left: 491px;
+  width: 124px;
+}
+.contact1,
+.log-in1,
+.sign-up1 {
+  top: 2005px;
+  width: 81px;
+}
+.contact1,
+.sign-up1 {
+  top: 2060px;
+}
+.contact1 {
+  top: 1953px;
+  left: 225px;
+}
+.how-invance-works1 {
+  top: 2005px;
+  left: 225px;
+  width: 187px;
+}
+.blog1,
+.business1,
+.community1,
+.how-invance-works1,
+.invance-inc-all1,
+.socials1 {
+  position: absolute;
+  display: inline-block;
+  font-family: var(--font-arial);
+  height: 28px;
+  mix-blend-mode: normal;
+}
+.invance-inc-all1 {
+  top: 2230px;
+  left: 215px;
+  font-size: var(--font-size-sm);
+  width: 437px;
+}
+.blog1,
+.business1,
+.community1,
+.socials1 {
+  top: 2057px;
+  left: 225px;
+  width: 81px;
+}
+.business1,
+.community1,
+.socials1 {
+  top: 1839px;
+  left: 491px;
+  font-size: var(--font-size-3xl);
+  width: 124px;
+}
+.business1,
+.socials1 {
+  left: 757px;
+  width: 145px;
+}
+.socials1 {
+  left: 1046px;
+}
+.facebook-2-icon,
+.instagram-2-icon,
+.linkedin-2-icon,
+.x-twitter-2-icon {
+  position: absolute;
+  top: 1898px;
+  left: 1047px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.facebook-2-icon,
+.linkedin-2-icon,
+.x-twitter-2-icon {
+  top: 1953px;
+}
+.linkedin-2-icon,
+.x-twitter-2-icon {
+  top: 2006px;
+}
+.linkedin-2-icon {
+  top: 2063px;
+}
+.categories,
+.products2,
+.thank-you-for-container1 {
+  position: absolute;
+  color: var(--color-white);
+  display: inline-block;
+}
+.thank-you-for-container1 {
+  top: 2136px;
+  left: 225px;
+  font-family: var(--font-arial);
+  width: 527px;
+  height: 49px;
+}
+.categories,
+.products2 {
+  top: 27px;
+  left: 1124px;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  width: 95px;
+  height: 27px;
+}
+.products2 {
+  left: 1242px;
+}
+.desktop-2-child11 {
+  position: absolute;
+  top: 16px;
+  left: 1385px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue);
+  width: 149px;
+  height: 40px;
+}
+.login-register1 {
+  position: absolute;
+  top: 27px;
+  left: 1394px;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 182px;
+  height: 15px;
+}
+.logo-no-background-1-icon1 {
+  position: absolute;
+  top: 12px;
+  left: 51px;
+  width: 171px;
+  height: 45px;
+  object-fit: cover;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-lemonchiffon);
+  width: 100%;
+  height: 2313px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-lavender);
+  font-family: var(--font-inter);
+}
